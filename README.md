@@ -7,7 +7,7 @@ tensorflow_gpu_cuda_10.1up2_cudnn7.6_trt5.1_cc75_intel-1.13.2-cp36-cp36m-linux_x
 
 For AMD
 tensorflow_gpu_cuda_10.1up2_cudnn7.6_trt5.1_cc75_amd-1.13.2-cp36-cp36m-linux_x86_64.whl
-　https://drive.google.com/file/d/17EDlyv9efw-83hx1dKjxNwPrrUsO9u6v/view?usp=sharing
+　https://drive.google.com/file/d/1GDsEg9kCsFGAmSlIwqvzGkcbx_-UiLAa/view?usp=sharing
 
 Optimizations
  -> CUDA 10.1 Update 2
